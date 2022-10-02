@@ -1,4 +1,5 @@
 import './01-basic-observable.js';
+import './02-useful-operators.js';
 
 // Example: DOM click event (vanilla vs rxjs)
 // document.addEventListener('click', () => console.log('Clicked!'));
